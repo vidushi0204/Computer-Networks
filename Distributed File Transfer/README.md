@@ -1,4 +1,4 @@
-Distributed File Download and Reassembly System as part of Computer Networks course at IIT Delhi (2023-24, Semester I)
+Distributed File Download and Reassembly System 
 
 ## Objective
 
